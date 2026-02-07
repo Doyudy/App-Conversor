@@ -7,9 +7,8 @@ O projeto foi criado com foco em praticar consumo de APIs REST, gerenciamento de
 ---
 
 ## 📱 Download
+👉 [Baixar APK](https://github.com/SEU_USUARIO/App-Conversor/releases/download/v1.0.0/app-release.apk)
 
-👉 **[Baixar APK (Android)](https://github.com/SEU_USUARIO/App-Conversor/releases/download/v1.0.0/app-release.apk)
-**
 
 ---
 
