@@ -6,9 +6,13 @@ O projeto foi criado com foco em praticar consumo de APIs REST, gerenciamento de
 
 ---
 
-## 📱 Download
+## 📱 Download do App
 
-👉 [Baixar APK (Android)](https://github.com/Doyudy/App-Conversor/releases/download/v1.0.0/Conversor.de.Moedas.apk?raw=true)
+<p align="center">
+  <a href="https://github.com/Doyudy/App-Conversor/releases/download/v1.0.0/Conversor.de.Moedas.apk?raw=true">
+    <img src="https://img.shields.io/badge/⬇️%20Baixar%20APK-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  </a>
+</p>
 
 
 
