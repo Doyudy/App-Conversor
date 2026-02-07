@@ -8,7 +8,7 @@ O projeto foi criado com foco em praticar consumo de APIs REST, gerenciamento de
 
 ## 📱 Download
 
-👉 [Baixar APK (Android)](https://github.com/Doyudy/App-Conversor/releases/download/v1.0.0/app-release.apk?raw=true)
+👉 [Baixar APK (Android)](https://github.com/Doyudy/App-Conversor/releases/download/v1.0.0/Conversor.de.Moedas.apk?raw=true)
 
 
 
